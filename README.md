@@ -29,7 +29,7 @@ Aplicação de controle de financeiro, desenvolvida durante a Maratona Discover 
 - [x] Modal<br>
 - [x] Responsividade<br>
 
-### Techs: 
+# Techs: 
 - HTML
 - CSS
 - JavaScript
