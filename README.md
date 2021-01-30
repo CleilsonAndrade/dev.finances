@@ -3,10 +3,6 @@
     <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
-<h2 align="center"> 
-	🚧  Em construção...  🚧
-</h2>
-
 ## Índice
 
 * [Descrição](#descrição)
