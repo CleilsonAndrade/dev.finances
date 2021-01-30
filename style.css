@@ -54,6 +54,7 @@ a {
 }
 
 a:hover {
+    transition: 0.2s;
     color: var(--light-green);
 }
 
@@ -124,7 +125,7 @@ header {
 }
 
 .card:hover {
-    transition: 0.2s;
+    transition: 0.4s;
     background: #e8f0ff;
 }
 
@@ -216,6 +217,7 @@ td.expense {
     opacity: 0;
     visibility: hidden;
     z-index: 999;
+    transition: 0.2s;
 }
 
 .modal-overlay.active {
