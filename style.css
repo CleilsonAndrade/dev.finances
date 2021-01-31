@@ -220,16 +220,22 @@ td.expense {
     transition: 0.2s;
 }
 
-.modal-overlay.active {
+.modal-overlay.active-overlay {
     opacity: 1;
     visibility: visible;
 }
 
 .modal {
+    top: -100%;
     background: var(--white);
     padding: 2.4rem;
     position: relative;
     z-index: 1;
+    transition: 0.2s;
+}
+
+.modal.active-modal {
+    top: 0;
 }
 
 /* FORM============================================= */
