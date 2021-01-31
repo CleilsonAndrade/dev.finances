@@ -10,6 +10,7 @@
 * [Techs](#techs)
   * [Modelo](#modelo)
   * [Tipo de fonte](#tipo-de-fonte)
+* [Instalação](#instalação)
 * [Links Contato](#links-contato)
 * [Licença](#licença)
 
@@ -34,6 +35,11 @@ Aplicação de controle de financeiro, desenvolvida durante a Maratona Discover 
 
 ## Tipo de fonte:
 - Poppins
+
+# Instalação:
+Clone este repositório:<br>
+`git clone https://github.com/CleilsonAndrade/dev.finances.git`<br>
+`cd dev.finances/`
 
 # Links Contato
 - Linkedin: https://www.linkedin.com/in/cleilson-andrade/<br>
