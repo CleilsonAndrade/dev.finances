@@ -3,13 +3,16 @@ const Modal = {
         // ABRIR MODAL
         // Adicionar a class active ao modal
         document.querySelector('.modal-overlay').classList.add('active-overlay')
-        document.querySelector('.modal').classList.add('active-modal')
+        document.querySelector('.modal').classList.toggle('active-modal')
+        document.querySelector('.attention').classList.add('sr-only')
+
     },
     close() {
         // FECHAR MODAL
         // Remover a class active do modal
         document.querySelector('.modal-overlay').classList.remove('active-overlay')
-        document.querySelector('.modal').classList.remove('active-modal')
+        document.querySelector('.modal').classList.toggle('active-modal')
+        document.querySelector('.attention').classList.add('sr-only')
 
     },
 }
@@ -128,6 +131,7 @@ const Form = {
         const { description, amount, date } = Form.getValues()
 
         if (description.trim() === "" || amount.trim() === "" || date.trim() === "") {
+            document.querySelector('.attention').classList.remove('sr-only')
             throw new Error("Por favor, preencha todos os campos!")
         }
     },

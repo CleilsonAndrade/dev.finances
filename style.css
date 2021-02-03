@@ -39,6 +39,12 @@ body {
     margin: 0 auto;
 }
 
+.attention {
+    margin-top: 0.2rem;
+    font-weight: 600;
+    color: var(--red);
+}
+
 /* TITLES============================================= */
 h2 {
     margin-top: 3.2rem;
@@ -223,6 +229,7 @@ td.expense {
 .modal-overlay.active-overlay {
     opacity: 1;
     visibility: visible;
+    backdrop-filter: blur(5px);
 }
 
 .modal {
