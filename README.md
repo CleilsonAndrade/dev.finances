@@ -39,7 +39,7 @@ Aplicação de controle de financeiro, desenvolvida durante a Maratona Discover 
 # Instalação:
 Clone este repositório:<br>
 `git clone https://github.com/CleilsonAndrade/dev.finances.git`<br>
-`cd dev.finances/`
+`cd ./dev.finances`
 
 # Links Contato
 - Linkedin: https://www.linkedin.com/in/cleilson-andrade/<br>
