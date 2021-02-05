@@ -97,10 +97,10 @@ const Utils = {
         const splittedDate = date.split("-")
         return `${splittedDate[2]}/${splittedDate[1]}/${splittedDate[0]}`
     },
-    formartAmount(value) {
-        value = Number(value.replace(/\,\./g, "")) * 100
+    formatAmount(value) {
+        value = value * 100
 
-        return value
+        return Math.round(value)
     },
     formatCurrency(value) {
         const signal = Number(value) < 0 ? "-" : ""
@@ -139,7 +139,7 @@ const Form = {
     formatValues() {
         let { description, amount, date } = Form.getValues()
 
-        amount = Utils.formartAmount(amount)
+        amount = Utils.formatAmount(amount)
 
         date = Utils.formatDate(date)
 
