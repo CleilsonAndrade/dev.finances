@@ -8,7 +8,8 @@
 * [Descrição](#descrição)
 * [Features](#features) 
 * [Techs](#techs)
-  * [Modelo](#modelo)
+* [Design](#design)
+  * [Cores](#cores)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Instalação](#instalação)
 * [Links Contato](#links-contato)
@@ -30,8 +31,16 @@ Aplicação de controle de financeiro, desenvolvida durante a Maratona Discover 
 - CSS
 - JavaScript
 
-## Modelo:
+# Design:
 - O modelo final para desktop e mobile está disponível na pasta `./design`
+- Imagens disponíveis na pasta `./assets`<br>
+
+## Cores:
+- Dark-blue: #363f5f<br>
+- Green: #49AA26<br>
+- Light-green: #3dd705<br>
+- Red: #e92929<br>
+- White: #f0f2f5<br>
 
 ## Tipo de fonte:
 - Poppins
