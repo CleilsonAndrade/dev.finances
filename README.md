@@ -24,6 +24,7 @@ Aplicação de controle financeiro, desenvolvida durante a Maratona Discover rea
 - [x] Valor total atualizado do saldo atual<br>
 - [x] Exclusão de transações, atualizando os saldos (entradas, saídas e saldo atual)<br>
 - [x] Modal para cadastro de novas transações<br>
+- [x] Compatibilidade mobile<br>
 - [x] Responsividade<br>
 
 # Techs: 
