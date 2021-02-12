@@ -19,7 +19,7 @@
 Aplicação de controle financeiro, desenvolvida durante a Maratona Discover realizada pela <a href="https://github.com/Rocketseat">@Rocketseat</a>
 
 ## Features:
-- [x] Cadastro de novas trasações com descrição, valor e data<br>
+- [x] Cadastro de novas transações com descrição, valor e data<br>
 - [x] Valor total atualizado do saldo de entradas/saídas das trasações<br>
 - [x] Valor total atualizado do saldo atual<br>
 - [x] Exclusão de transações, atualizando os saldos (entradas, saídas e saldo atual)<br>
