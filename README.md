@@ -22,7 +22,7 @@
 * [Licença](#licença)
 
 # Descrição
-Aplicação de controle financeiro, desenvolvida durante a Maratona Discover realizada pela [@Rocketseat](https://github.com/Rocketseat)
+Aplicação de controle financeiro, desenvolvida durante a Maratona Discover realizada pela [**@Rocketseat**](https://github.com/Rocketseat)
 
 ## Features:
 - [x] Cadastro de novas transações com descrição, valor e data<br>
