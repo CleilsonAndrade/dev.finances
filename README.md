@@ -4,11 +4,10 @@
     <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
-
-<h1 align="center">
+---
+<h3 align="center">
   <a href="https://cleilsonandrade.github.io/dev.finances">Acessar demonstração</a>
-</h1>
-
+</h3>
 
 ## Índice
 
