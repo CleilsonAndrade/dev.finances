@@ -14,7 +14,8 @@
 }
 
 html {
-    font-size: 93.75%; /* 15px */
+    font-size: 93.75%;
+    /* 15px */
 }
 
 body {
@@ -223,7 +224,7 @@ td.expense {
     opacity: 0;
     visibility: hidden;
     z-index: 999;
-    transition: 0.2s;
+    transition: 0.4s;
 }
 
 .modal-overlay.active-overlay {
@@ -258,7 +259,7 @@ input {
     border: none;
     border-radius: 0.2rem;
     padding: 0.8rem;
-    width: 100%;  
+    width: 100%;
 }
 
 .input-group {
@@ -292,7 +293,8 @@ footer {
 /* RESPONSIVE============================================= */
 @media (min-width: 800px) {
     html {
-        font-size: 87.5; /* 14px */
+        font-size: 87.5;
+        /* 14px */
     }
 
     #balance {
