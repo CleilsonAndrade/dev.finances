@@ -41,11 +41,11 @@ Aplicação de controle financeiro, que permite ter o cadastro de valores de ent
 - O modelo final para desktop e mobile está disponível na pasta `./design`
 
 - <span id="cores">Cores<br></span>
-- Dark-blue: #363f5f<br>
-- Green: #49AA26<br>
-- Light-green: #3dd705<br>
-- Red: #e92929<br>
-- White: #f0f2f5<br>
+  * #363f5f<br>
+  * #49AA26<br>
+  * #3dd705<br>
+  * #e92929<br>
+  * #f0f2f5<br>
 
 - <span id="fontes">Fontes<br></span>
   * Poppins, sans-serif
