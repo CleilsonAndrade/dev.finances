@@ -37,7 +37,7 @@ Aplicação de controle financeiro, que permite ter o cadastro de valores de ent
 - **JavaScript**
 - **JSON**
 
-# Design:
+# 🎨 <span id="design">Design</span>
 - O modelo final para desktop e mobile está disponível na pasta `./design`
 
 - <span id="cores">Cores<br></span>
