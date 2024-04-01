@@ -1,14 +1,14 @@
 const Modal = {
     open() {
-        // ABRIR MODAL
-        // Adicionar a class active ao modal
+        // OPEN MODE
+        // Add the active class to the modal
         document.querySelector('.modal-overlay').classList.add('active-overlay')
         document.querySelector('.modal').classList.toggle('active-modal')
         document.querySelector('.attention').classList.add('sr-only')
 
     },
     close() {
-        // FECHAR MODAL
+        // CLOSE MODAL
         // Remover a class active do modal
         document.querySelector('.modal-overlay').classList.remove('active-overlay')
         document.querySelector('.modal').classList.toggle('active-modal')

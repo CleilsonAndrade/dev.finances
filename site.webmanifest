@@ -2,7 +2,7 @@
     "name": "dev.finance$",
     "short_name": "dev.finance$",
     "lang": "pt-BR",
-    "description": "Seu app de controle de finanças pessoal.",
+    "description": "Seu app de controle de finanças pessoais.",
     "icons": [
         {
             "src": "./assets/favicon/android-chrome-192x192.png",

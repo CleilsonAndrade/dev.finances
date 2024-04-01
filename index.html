@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="./style.css">
     <!-- META NAME & DESCRIPTION -->
     <meta name="author" content="Cleilson Andrade">
-    <meta name="description" content="Seu app de controle de finanças pessoal.">
+    <meta name="description" content="Seu app de controle de finanças pessoais.">
     <!-- META SOCIAL MEDIAS -->
     <meta name="twitter:title" content="dev.finance$">
     <meta property="og:title" content="dev.finance$" />
@@ -69,18 +69,20 @@
         <section id="transaction">
             <h2 class="sr-only">Transações</h2>
             <a href="#" onclick="Modal.open()" class="button new">+ Nova transação</a>
-            <table id="data-table">
-                <thead>
-                    <tr>
-                        <th>Descrição</th>
-                        <th>Valor</th>
-                        <th>Data</th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tbody>
-                </tbody>
-            </table>
+            <div class="table-container">
+                <table id="data-table">
+                    <thead>
+                        <tr>
+                            <th>Descrição</th>
+                            <th>Valor</th>
+                            <th>Data</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
         </section>
     </main>
 
@@ -119,8 +121,7 @@
 
     <footer>dev.finance$</footer>
 
-    <script src="./scripts.js">
-    </script>
+    <script src="./scripts.js" defer></script>
 </body>
 
 </html>
