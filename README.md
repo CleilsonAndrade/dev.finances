@@ -50,7 +50,7 @@ Aplicação de controle financeiro, que permite ter o cadastro de valores de ent
 - <span id="fontes">Fontes<br></span>
   * Poppins, sans-serif
 
-# Instalação:
+# 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
   $ git clone https://github.com/CleilsonAndrade/dev.finances.git
