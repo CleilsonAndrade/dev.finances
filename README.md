@@ -13,7 +13,6 @@
 * [Design](#design)
   * [Cores](#cores)
   * [Fontes](#fontes)
-  * [Ícones](#ícones)
 * [Instalação](#instalação)
 * [Licença](#licença)
 
